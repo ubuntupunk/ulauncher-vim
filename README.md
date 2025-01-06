@@ -8,6 +8,7 @@
 # Ulauncher Vim Commands
 
 A Ulauncher extension that provides quick access to Vim commands with descriptions and links to detailed documentation. Based upon the [FlowLauncher Plugin VimCheatSheet Project](https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet)
+and [vim-prompter](https://github.com/ubuntupunk/vim-prompt)
 
 ## Features
 
