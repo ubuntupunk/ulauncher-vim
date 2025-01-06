@@ -53,7 +53,7 @@ and may still be incomplete or untested.
 
 ## References
 
-- Powered by [Vim Cheat Sheet](https://vim.rtorr.com/ "rtorr website") as source for [commands.json](https://github.com/ubuntpunk/rofi-vim/blob/main/db/commands.json "commands json database"
+- Powered by [Vim Cheat Sheet](https://vim.rtorr.com/ "rtorr website") as source for [commands.json](https://github.com/ubuntpunk/rofi-vim/blob/main/db/commands.json) "commands json database"
 
 ## License
 
