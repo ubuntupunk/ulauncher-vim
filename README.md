@@ -5,6 +5,9 @@
   <img alt="Vim Prompt Cover" src="https://github.com/ubuntupunk/vim-prompt/blob/main/src/vim_prompt/readme/Light-Cover.png">
 </picture>
 
+
+<a href="https://www.buymeacoffee.com/ubuntupunk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 # Ulauncher Vim Commands
 
 A Ulauncher extension that provides quick access to Vim commands with descriptions and links to detailed documentation. Based upon the [FlowLauncher Plugin VimCheatSheet Project](https://github.com/MoAlSeifi/Flow.Launcher.Plugin.VimCheatSheet)
